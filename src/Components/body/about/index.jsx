@@ -18,10 +18,10 @@ const About = () => {
         {/* <img src="./golf.jpg" alt="golf"/> */}
 
         <div className="about_photo">
-          <img
-            src="../../../profile/resumepic.png" alt="mypic"
-
+        <img
+            src={require("../../../profile/resumepic.png").default}
             className="picture"
+            alt="mypic"
           ></img>
           
         </div>
