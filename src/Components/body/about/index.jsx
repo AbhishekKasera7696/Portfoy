@@ -19,7 +19,7 @@ const About = () => {
 
         <div className="about_photo">
         <img
-            src={require("../../../profile/resumepic.png").default}
+            src={require("../../../profile/resumepic.png")}
             className="picture"
             alt="mypic"
           ></img>
