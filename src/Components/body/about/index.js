@@ -15,11 +15,15 @@ const About = () => {
           Full Stack Developer
         </div>
 
+        {/* <img src="./golf.jpg" alt="golf"/> */}
+
         <div className="about_photo">
           <img
-            src={require("../../../profile/resumepic.png")}
+            src="../../../profile/resumepic.png" alt="mypic"
+
             className="picture"
           ></img>
+          
         </div>
       </div>
       <div className="test"></div>
