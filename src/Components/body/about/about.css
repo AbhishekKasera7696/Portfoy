@@ -1,0 +1,66 @@
+.about{
+    padding-bottom: 40px;
+}
+
+.about_top{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+h2{
+    font-size: 32px;
+    text-align: left;;
+}
+
+.picture{
+    height:420px;
+    margin-left: 15%;
+  
+}
+
+.about_info{
+    font-size: 40px;
+    font-weight: 700;
+}
+
+.info_name{
+    color:blueviolet;
+    font-size: 60px;
+}
+
+.aboutme {
+     text-align: center;
+     justify-content: center;
+}
+
+@media only screen and (max-width: 720px) {
+    .about_top{
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+    }
+
+    .picture{
+        height:280px;
+        margin-top: 5%;
+    }
+
+    .about_info{
+       font-size: 20px;
+       font-weight: 700;
+    }
+
+    .info_name{
+        font-size: 30px;
+    }
+
+    h2{
+        font-size: 25px;
+    }
+
+    .aboutme {
+        text-align: center;
+        justify-content: center;
+   }
+}
