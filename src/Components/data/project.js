@@ -14,8 +14,8 @@ export const ProjectData = [
         title:"Youtube",
         about: "YouTube.com is an American online video sharing and social media platform owned by Google.",
         tags: ["HTML" , "Css", "Javscript"],
-        demo: "https://featmealclone.netlify.app/",
-        github: "https://github.com/AbhishekKasera7696/FitMeal",
+        demo: "https://youtubeabhiclone.netlify.app/",
+        github: "https://github.com/AbhishekKasera7696/Youtube",
         image : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRcAX3v72a-27acY1pP43XFMtJCYS6zfM58yg&usqp=CAU"
     },
 
