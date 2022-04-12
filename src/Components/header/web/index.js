@@ -8,15 +8,17 @@ const Web = () => {
           <i class="material-icons option_icon">account_circle</i>About
         </a>
       </div>
-      <div className="web_option">
-        <a href="#projects">
-          <i class="material-icons option_icon">widgets</i>Projects
-        </a>
-      </div>
+     
 
       <div className="web_option">
         <a href="#skills">
           <i class="material-icons option_icon">laptop</i>Skills
+        </a>
+      </div>
+
+      <div className="web_option">
+        <a href="#projects">
+          <i class="material-icons option_icon">widgets</i>Projects
         </a>
       </div>
 

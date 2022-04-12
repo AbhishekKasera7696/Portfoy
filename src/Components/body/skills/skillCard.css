@@ -1,6 +1,6 @@
 .skill_card{
     width:max-content;
-    padding: 8px 16px;
+    padding: 8px 10px;
     height: 120px;
     display:flex;
     flex-direction: column;
@@ -13,6 +13,7 @@
 
 .skill_icon{
     font-size: 80px;
+   
 }
 
 .skill_name{

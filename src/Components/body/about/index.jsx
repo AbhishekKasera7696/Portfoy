@@ -29,7 +29,7 @@ const About = () => {
       <div className="test"></div>
       <div className="aboutme">
         <br></br>
-        <Separator />
+        {/* <Separator /> */}
         <h2>About</h2>
 
         

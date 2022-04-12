@@ -26,13 +26,21 @@ h2{
 
 .info_name{
     color:blueviolet;
-    font-size: 60px;
+    font-size: 50px;
 }
 
 .aboutme {
      text-align: center;
      justify-content: center;
+   
 }
+
+.aboutme h2{
+    text-align:center;
+}
+
+
+
 
 @media only screen and (max-width: 720px) {
     .about_top{
@@ -52,7 +60,7 @@ h2{
     }
 
     .info_name{
-        font-size: 30px;
+        font-size: 32px;
     }
 
     h2{

@@ -18,7 +18,7 @@ const Contact = () => {
           <div className='download'>
             <a download href={require('../../../profile/pp2/resume.pdf')}>
             <i class="material-icons download_icon">cloud_download</i>
-              Download Resume
+             Resume
             </a>
 
           </div>

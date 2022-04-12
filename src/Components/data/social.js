@@ -22,6 +22,12 @@ export const SocialData = [
         link : "https://github.com/AbhishekKasera7696 ",
         icon : require("../../profile/pp2/github.png")
     },
+
+    {
+        platform : "gmail",
+        link : "https://mailto:abhi07kasera@gmail.com",
+        icon : require("../../profile/pp2/gmail.png")
+    },
     
     
 ]

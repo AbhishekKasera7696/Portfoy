@@ -13,17 +13,20 @@ function Body() {
         <About />
       </section>
 
-      
-
      
 
       <section id='skills'>
         <Skills />
       </section>
 
+
+       
       <section id='projects'>
         <Projects />
       </section>
+     
+
+     
 
       {/* <section id='work'>
         <Work />

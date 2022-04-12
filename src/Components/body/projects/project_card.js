@@ -6,16 +6,15 @@ function ProjectCard({ project }) {
     <div className="project_card">
       <div className="project_info">
         <label className="project_title">{project.title}</label>
-        <div className="project_links">
-          {project.demo && (
-            <a className="project_link" href={project.demo}>
+        <div className="project_links">{project.demo && (
+            <a className="project_link" href={project.demo} target={"_blank"}>
               <div className="link_button">
-                <i class="material-icons">language</i>Demo
+              <i class="material-icons">language</i>Demo
               </div>
             </a>
           )}
           {project.github &&(
-               <a className="project_link" href={project.github}>
+               <a className="project_link" href={project.github} target={"_blank"}>
                <div className="link_button">
                <i class="devicon-github-original colored"></i>Github
                </div>
@@ -31,7 +30,7 @@ function ProjectCard({ project }) {
            })}
         </div>
       </div>
-      <img src={project.image} className="project_photo" alt="midpic"></img>
+      <img src={project.image}  className="project_photo" alt="midpic"></img>
     </div>
   );
 }
