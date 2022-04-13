@@ -2,12 +2,20 @@
     display: flex;
     justify-content: center;
     align-items: center;
+  
 }
+
 
 .social_icon_div{
     padding:6px;
     cursor: pointer;
     margin:6px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    cursor: pointer;
+}
+
+.social_icon_div:hover{
+    transform: scale(1.2);
 }
 
 .social_icon{

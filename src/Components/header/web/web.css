@@ -4,11 +4,23 @@
     align-items: center;
 }
 
+
 .web_option{
     font-size: 20px;
     margin-right: 16px;
     font-weight: 700;
+   
 }
+
+@keyframes slideInFromRight {
+    100% {
+        transform: translateX(-100%);
+    }
+    0% {
+        transform: translateX(0);
+    }
+  }
+
 
 .web_option a{
     text-decoration: none;

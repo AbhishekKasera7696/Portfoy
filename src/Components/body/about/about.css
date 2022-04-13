@@ -1,6 +1,9 @@
 .about{
     padding-bottom: 40px;
+    
 }
+
+
 
 .about_top{
     display: flex;
@@ -16,13 +19,15 @@ h2{
 .picture{
     height:420px;
     margin-left: 15%;
-  
 }
+
 
 .about_info{
     font-size: 40px;
     font-weight: 700;
+  
 }
+
 
 .info_name{
     color:blueviolet;
@@ -38,6 +43,8 @@ h2{
 .aboutme h2{
     text-align:center;
 }
+
+
 
 
 
