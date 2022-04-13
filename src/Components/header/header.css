@@ -4,6 +4,7 @@
     justify-content: space-between;
     flex: 1;
     gap:40%;
+   
     padding: 12px;
     position: relative;
     align-items: center;
@@ -35,7 +36,7 @@
     font-size: 36px;
     color:blueviolet;
     font-weight: 800;
-    margin-left:-20%;
+    margin-left:-25.%;
    
 }
 
