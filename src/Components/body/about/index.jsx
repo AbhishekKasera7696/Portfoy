@@ -1,5 +1,5 @@
 import React from "react";
-import Separator from "../common/separator";
+// import Separator from "../common/separator";
 import SocialContact from "../common/social_contact";
 import "./about.css";
 
@@ -29,7 +29,7 @@ const About = () => {
       <div className="test"></div>
       <div className="aboutme">
         <br></br>
-        {/* <Separator /> */}
+       
         <h2>About</h2>
 
         
