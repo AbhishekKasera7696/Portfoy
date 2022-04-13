@@ -25,7 +25,7 @@ export const SocialData = [
 
     {
         platform : "gmail",
-        link : "https://mailto:abhi07kasera@gmail.com",
+        link : "mailto:abhi07kasera@gmail.com",
         icon : require("../../profile/pp2/gmail.png")
     },
     
