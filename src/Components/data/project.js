@@ -6,7 +6,7 @@ export const ProjectData = [
         tags: ["HTML" , "Css", "Javscript"],
         demo: "https://featmealclone.netlify.app/",
         github: "https://github.com/AbhishekKasera7696/FitMeal",
-        image : "https://i.ibb.co/rkw7bZp/SLIDE-03.jpg"
+        image : "https://i.ibb.co/qs7HYFM/Capture-fitmeals.png"
     },
 
     {
@@ -16,7 +16,7 @@ export const ProjectData = [
         tags: ["HTML" , "Css", "Javscript"],
         demo: "https://youtubeabhiclone.netlify.app/",
         github: "https://github.com/AbhishekKasera7696/Youtube",
-        image : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRcAX3v72a-27acY1pP43XFMtJCYS6zfM58yg&usqp=CAU"
+        image : "https://i.ibb.co/hyPJDKJ/Capture-youtube.png"
     },
 
 ]
