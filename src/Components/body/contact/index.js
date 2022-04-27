@@ -16,7 +16,7 @@ const Contact = () => {
             <SocialContact />
           </div>
           <div className='download'>
-            <a target={"_blank"} rel={'noreferrer'} href={require('../../../profile/pp2/resume.pdf')}>
+            <a target={"_blank"} rel={'noreferrer'} href={require('https://drive.google.com/file/d/1mOxsyFBwpmovLEMo9BxJX1gNvuWQg7F5/view?usp=sharing')}>
             <i class="material-icons download_icon">cloud_download</i>
              Resume
             </a>
