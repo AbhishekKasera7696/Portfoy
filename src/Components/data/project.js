@@ -27,6 +27,20 @@ export const ProjectData = [
         demo: "https://abhishekmychatapp.netlify.app/"  ,
         github: "https://github.com/AbhishekKasera7696/video_chat_app",
         image: "https://i.ibb.co/4NVJgxT/Screen-Shot-2020-03-25-at-11-14-30-AM.jpg"
+    },
+
+    {
+        id:4,
+        title:"Tic Tac Toe",
+        about: "Tic Tac Toe game we play this game many a time, here I have build this game with the help of HTML,CSS & Javscript, where two players can play and get the result of win,loss & tie",
+        tags: ["HTML","Css", "Javascript"],
+        demo: "https://ticmytactoe.netlify.app/"  ,
+        github: "https://github.com/AbhishekKasera7696/tictactoe",
+        image: "https://i.ibb.co/YZNqYMk/tic-tac-toe.png"
     }
 
+
 ]
+
+
+https://i.ibb.co/YZNqYMk/tic-tac-toe.png
