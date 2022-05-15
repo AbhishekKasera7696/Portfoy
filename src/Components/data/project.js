@@ -43,4 +43,3 @@ export const ProjectData = [
 ]
 
 
-https://i.ibb.co/YZNqYMk/tic-tac-toe.png
