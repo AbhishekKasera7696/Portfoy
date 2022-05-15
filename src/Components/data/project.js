@@ -26,7 +26,7 @@ export const ProjectData = [
         tags: ["React_JS", "Material_UI" , "WebRTC", "NodeJS"],
         demo: "https://abhishekmychatapp.netlify.app/"  ,
         github: "https://github.com/AbhishekKasera7696/video_chat_app",
-        image: "https://i.ibb.co/9q17JFN/video-app-removebg-preview.png"
+        image: "https://i.ibb.co/4NVJgxT/Screen-Shot-2020-03-25-at-11-14-30-AM.jpg"
     }
 
 ]
