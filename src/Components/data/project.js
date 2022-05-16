@@ -23,7 +23,7 @@ export const ProjectData = [
         id:3,
         title:"Video Chat App",
         about: "Features : Users can do video calls by sharing their codes and have fun with each other this app also ask you to give permission for microphone and video",
-        tags: ["React_JS", "Material_UI" , "WebRTC", "NodeJS"],
+        tags: ["React_JS", "Material_UI" , "WebRTC", "NodeJS", "Socket.io", "Express.js"],
         demo: "https://abhishekmychatapp.netlify.app/"  ,
         github: "https://github.com/AbhishekKasera7696/video_chat_app",
         image: "https://i.ibb.co/4NVJgxT/Screen-Shot-2020-03-25-at-11-14-30-AM.jpg"
