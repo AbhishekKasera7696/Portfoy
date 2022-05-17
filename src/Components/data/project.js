@@ -37,6 +37,16 @@ export const ProjectData = [
         demo: "https://ticmytactoe.netlify.app/"  ,
         github: "https://github.com/AbhishekKasera7696/tictactoe",
         image: "https://i.ibb.co/YZNqYMk/tic-tac-toe.png"
+    },
+
+    {
+        id:5,
+        title:"My Google Search Engine Clone",
+        about: "Here I have build a functional google clone app ,here you can search whatever you want and can get your desirable result like google. ",
+        tags: ["ReactJS","Context API", "Material-UI", "React Router", "Google Search API"],
+        demo: "https://mygooglesearchengine.netlify.app/"  ,
+        github: "https://github.com/AbhishekKasera7696/MyGoogleSearchEngineClone",
+        image: "https://i.ibb.co/dgtct53/Google-Clone.png"
     }
 
 
