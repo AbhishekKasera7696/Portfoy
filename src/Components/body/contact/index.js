@@ -16,7 +16,7 @@ const Contact = () => {
             <SocialContact />
           </div>
           <div className='download'>
-            <a target={"_blank"} rel={'noreferrer'} href={require('../../../profile/pp2/resume3.pdf')}>
+            <a target={"_blank"} rel={'noreferrer'} href={require('../../../profile/pp2/resume4.pdf')}>
             <i class="material-icons download_icon">cloud_download</i>
              Resume
             </a>
